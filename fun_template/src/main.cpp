@@ -1,7 +1,5 @@
 #include <iostream>
 #include <string>
-#include"array.hpp"
-#include "math.hpp"
 #include "lib.hpp"
 
 using namespace std;
