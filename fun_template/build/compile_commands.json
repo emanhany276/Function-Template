@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/eman/function_template/build",
+  "command": "/usr/bin/g++  -I/home/eman/function_template/includes -I/home/eman/function_template/utils -g -o CMakeFiles/PRINT.dir/src/main.cpp.o -c /home/eman/function_template/src/main.cpp",
+  "file": "/home/eman/function_template/src/main.cpp"
+}
+]

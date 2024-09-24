@@ -1,0 +1,3 @@
+/home/eman/function_template/build/CMakeFiles/PRINT.dir
+/home/eman/function_template/build/CMakeFiles/edit_cache.dir
+/home/eman/function_template/build/CMakeFiles/rebuild_cache.dir
